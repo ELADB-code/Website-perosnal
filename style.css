@@ -3,7 +3,7 @@ img {
 }
 body {
     text-align: center;
-    font-family: 'Arial';
+    font-family: Arial, sans serif;
     background: rgb(134, 231, 231);
     color: black;
 }
